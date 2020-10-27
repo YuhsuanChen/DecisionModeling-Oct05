@@ -1,4 +1,4 @@
-# DecisionModeling-Oct05
+# Voting rule
 Decision Modelling Practical Work 3
 
 1. data.csv contain the input of the program
